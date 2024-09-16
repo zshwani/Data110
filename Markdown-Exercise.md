@@ -25,7 +25,8 @@
 [Linkdeln Profile](www.linkedin.com/in/zhuwan-shwani)
 
 ## Image
-![My Favorite Painting]()
+### My Favorite Painting, _Yazidi Girl_, by Nabaz Baban
+![4832E547-EEFB-40E3-A3BC-7B49EE4A7DAF_1_201_a](https://github.com/user-attachments/assets/734ee12d-dbd0-49c8-b5f1-ad6a45e73256)
 
 ## Favorite Quote
 > Solitude clarifies. 
