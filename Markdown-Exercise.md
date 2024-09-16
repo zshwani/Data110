@@ -25,7 +25,7 @@
 [Linkdeln Profile](www.linkedin.com/in/zhuwan-shwani)
 
 ## Image
-![My Favorite Poet]()
+![My Favorite Painting]()
 
 ## Favorite Quote
 > Solitude clarifies. 
